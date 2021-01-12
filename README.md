@@ -11,3 +11,5 @@ L\*a\*b\*, also referred to as CIELAB, is a color space, or “color model”, u
 
 ### Method:
 With Matplotlib’s pyplot  library, a 2D L\*a\*b\* color space representation is built by using X, Y coordinates as ‘a*’ and ‘b*’ values to express color in L\*a\*b\* space. Since Matplotlib is capable only of displaying color expressed using the RGB system, the L\*a\*b\* color is converted to RGB using the colormath library prior to plotting. Once the L\*a\*b\* color space is built, the user’s new L\*a\*b\* data can then be plotted using common Matplotlib tools.
+
+![alt text](https://github.com/limmich/2D-Lab-Color-Data-Visualization/blob/main/LAB_Plot.png?raw=true)
